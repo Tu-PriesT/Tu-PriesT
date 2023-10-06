@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PriesT</h1>
 <h3 align="center">Passionate about programming web applications. I like technological innovations along with artificial intelligence.</h3>
 
-<img width="512" src="https://i.imgur.com/uIEf8kF.png" />
+<img width="200" src="https://i.imgur.com/QAbohmh.png" />
 
 <p align="left"> <a href="https://twitter.com/tu_priest" target="blank"><img src="https://img.shields.io/twitter/follow/tu_priest?logo=twitter&style=for-the-badge" alt="tu_priest" /></a> </p>
 
